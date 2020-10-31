@@ -1,0 +1,3 @@
+* EasyArch Calamares Configuration Files
+  This repository contains calamares settings, module configurations and branding
+  slides and images.
